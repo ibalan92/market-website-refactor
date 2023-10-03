@@ -12,13 +12,9 @@ Market website refactor
 N/A
 
 
-## Usage 
+## Contact
 
-Not completed yet 
-
-## Credits
-
-Not completed yet
+name pull request , 
 
 
 ## License
