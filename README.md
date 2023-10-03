@@ -14,7 +14,7 @@ N/A
 
 ## Contact
 
-If you find any errors in the code or any malfunction, please pull request on github and I will review it. 
+If you find any errors in the code or any malfunction, please "pull request" on github and I will review it. 
 
 
 ## License
